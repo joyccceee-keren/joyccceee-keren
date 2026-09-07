@@ -83,3 +83,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 20. DSA: Dynamic Programming 1D
 - **Concept**: Memoization vs Tabulation, Fibonacci, House Robber, and Coin Change.
 - **Status**: Completed & Verified
+
+### 21. DSA: Dynamic Programming 2D
+- **Concept**: Grid paths, Longest Common Subsequence (LCS), and 0/1 Knapsack problem.
+- **Status**: Completed & Verified
