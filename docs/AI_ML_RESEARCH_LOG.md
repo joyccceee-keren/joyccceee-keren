@@ -51,3 +51,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 12. Model Quantization
 - **Concept**: FP32, FP16, BF16, INT8, and INT4 (GPTQ, AWQ, GGUF) precision tradeoffs.
 - **Status**: Completed & Verified
+
+### 13. Linear Algebra for ML
+- **Concept**: Eigenvalues, Eigenvectors, Singular Value Decomposition (SVD), and Matrix Factorization.
+- **Status**: Completed & Verified
