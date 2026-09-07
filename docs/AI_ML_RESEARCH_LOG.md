@@ -91,3 +91,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 22. DSA: Heaps & Priority Queues
 - **Concept**: Min-Heap, Max-Heap, Top-K frequent elements, and Median from Data Stream.
 - **Status**: Completed & Verified
+
+### 23. DSA: Bit Manipulation
+- **Concept**: XOR tricks, checking power of 2, single number, and bitmask dynamic programming.
+- **Status**: Completed & Verified
