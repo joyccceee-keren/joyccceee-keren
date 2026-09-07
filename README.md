@@ -72,7 +72,19 @@ Across 7 hackathons, I've explored AI, cybersecurity, blockchain, and healthcare
 
 ---
 
-### 06 // CURRENT FOCUS
+### 06 // CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyccceee-keren/joyccceee-keren/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyccceee-keren/joyccceee-keren/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joyccceee-keren/joyccceee-keren/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 07 // CURRENT FOCUS
 
 ```yaml
 name: Joyce Keren
@@ -105,7 +117,7 @@ open_to:
 
 ---
 
-### 07 // CONNECT
+### 08 // CONNECT
 
 <p align="center">
   <a href="mailto:kerenjoyce01@gmail.com">
