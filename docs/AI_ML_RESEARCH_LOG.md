@@ -35,3 +35,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 08. Transformers & Attention Mechanism
 - **Concept**: Scaled Dot-Product Attention, Multi-Head Attention, and Positional Encodings.
 - **Status**: Completed & Verified
+
+### 09. LLM Architecture & Scaling
+- **Concept**: Decoder-only Transformers, Causal Masking, RoPE embeddings, and KV-cache.
+- **Status**: Completed & Verified
