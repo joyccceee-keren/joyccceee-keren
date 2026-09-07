@@ -99,3 +99,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 24. Cybersecurity in AI
 - **Concept**: Adversarial attacks, prompt injection defenses, model poisoning, and differential privacy.
 - **Status**: Completed & Verified
+
+### 25. Blockchain & Smart Contracts
+- **Concept**: Decentralized consensus, EVM execution environment, and Solidity security patterns.
+- **Status**: Completed & Verified
