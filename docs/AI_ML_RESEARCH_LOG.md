@@ -75,3 +75,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 18. DSA: Trees & Traversals
 - **Concept**: In-order, Pre-order, Post-order, Level-order BFS, and Lowest Common Ancestor.
 - **Status**: Completed & Verified
+
+### 19. DSA: Graphs & Shortest Path
+- **Concept**: DFS, BFS, Topological Sort, Dijkstra's algorithm, and Bellman-Ford.
+- **Status**: Completed & Verified
