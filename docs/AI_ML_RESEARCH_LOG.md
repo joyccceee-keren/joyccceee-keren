@@ -107,3 +107,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 26. Healthcare AI Systems
 - **Concept**: DICOM image preprocessing, HIPAA compliance in ML pipelines, and clinical validation.
 - **Status**: Completed & Verified
+
+### 27. MLOps & Model Deployment
+- **Concept**: Docker containerization, ONNX runtime, FastAPI inference endpoints, and monitoring.
+- **Status**: Completed & Verified
