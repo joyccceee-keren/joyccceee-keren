@@ -59,3 +59,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 14. Multivariate Calculus for ML
 - **Concept**: Jacobian, Hessian matrices, Taylor expansion, and directional gradients.
 - **Status**: Completed & Verified
+
+### 15. Probability & Statistics for AI
+- **Concept**: Bayes Theorem, Gaussian distributions, Maximum Likelihood Estimation (MLE), and MAP.
+- **Status**: Completed & Verified
