@@ -95,3 +95,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 23. DSA: Bit Manipulation
 - **Concept**: XOR tricks, checking power of 2, single number, and bitmask dynamic programming.
 - **Status**: Completed & Verified
+
+### 24. Cybersecurity in AI
+- **Concept**: Adversarial attacks, prompt injection defenses, model poisoning, and differential privacy.
+- **Status**: Completed & Verified
