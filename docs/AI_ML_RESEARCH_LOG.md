@@ -31,3 +31,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 07. Recurrent Neural Networks & LSTMs
 - **Concept**: Sequential data processing, Vanishing gradient problem, and LSTM/GRU gates.
 - **Status**: Completed & Verified
+
+### 08. Transformers & Attention Mechanism
+- **Concept**: Scaled Dot-Product Attention, Multi-Head Attention, and Positional Encodings.
+- **Status**: Completed & Verified
