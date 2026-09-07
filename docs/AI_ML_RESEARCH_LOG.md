@@ -43,3 +43,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 10. Fine-Tuning & PEFT
 - **Concept**: LoRA (Low-Rank Adaptation), QLoRA, Prefix Tuning, and Prompt Engineering.
 - **Status**: Completed & Verified
+
+### 11. RAG Architecture
+- **Concept**: Vector Embeddings, Dense Retrieval, FAISS/Chroma indexing, and Contextual Reranking.
+- **Status**: Completed & Verified
