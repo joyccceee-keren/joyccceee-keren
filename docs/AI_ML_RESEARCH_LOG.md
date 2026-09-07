@@ -11,3 +11,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 02. Activation Functions
 - **Concept**: ReLU, Leaky ReLU, GELU, Sigmoid, and Softmax comparison.
 - **Status**: Completed & Verified
+
+### 03. Loss Functions & Optimization
+- **Concept**: Cross-Entropy, MSE, Gradient Descent, SGD, Adam, and AdamW.
+- **Status**: Completed & Verified
