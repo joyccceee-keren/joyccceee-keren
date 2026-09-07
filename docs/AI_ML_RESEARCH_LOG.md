@@ -67,3 +67,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 16. DSA: Two Pointers Pattern
 - **Concept**: Left/right pointers, sliding window, and cycle detection algorithms.
 - **Status**: Completed & Verified
+
+### 17. DSA: Binary Search Variants
+- **Concept**: Lower bound, upper bound, rotated sorted arrays, and search on answer space.
+- **Status**: Completed & Verified
