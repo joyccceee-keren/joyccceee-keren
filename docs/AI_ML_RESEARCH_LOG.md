@@ -63,3 +63,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 15. Probability & Statistics for AI
 - **Concept**: Bayes Theorem, Gaussian distributions, Maximum Likelihood Estimation (MLE), and MAP.
 - **Status**: Completed & Verified
+
+### 16. DSA: Two Pointers Pattern
+- **Concept**: Left/right pointers, sliding window, and cycle detection algorithms.
+- **Status**: Completed & Verified
