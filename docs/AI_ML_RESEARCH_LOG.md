@@ -55,3 +55,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 13. Linear Algebra for ML
 - **Concept**: Eigenvalues, Eigenvectors, Singular Value Decomposition (SVD), and Matrix Factorization.
 - **Status**: Completed & Verified
+
+### 14. Multivariate Calculus for ML
+- **Concept**: Jacobian, Hessian matrices, Taylor expansion, and directional gradients.
+- **Status**: Completed & Verified
