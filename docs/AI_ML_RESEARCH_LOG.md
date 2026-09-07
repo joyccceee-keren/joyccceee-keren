@@ -27,3 +27,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 06. Convolutional Neural Networks
 - **Concept**: Convolutions, Pooling layers, Residual connections, and ResNet architecture.
 - **Status**: Completed & Verified
+
+### 07. Recurrent Neural Networks & LSTMs
+- **Concept**: Sequential data processing, Vanishing gradient problem, and LSTM/GRU gates.
+- **Status**: Completed & Verified
