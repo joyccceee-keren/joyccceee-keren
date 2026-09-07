@@ -23,3 +23,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 05. Regularization Techniques
 - **Concept**: L1/L2 Weight Decay, Dropout, Batch Normalization, and Layer Normalization.
 - **Status**: Completed & Verified
+
+### 06. Convolutional Neural Networks
+- **Concept**: Convolutions, Pooling layers, Residual connections, and ResNet architecture.
+- **Status**: Completed & Verified
