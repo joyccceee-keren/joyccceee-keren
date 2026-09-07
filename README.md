@@ -44,17 +44,15 @@ Across 7 hackathons, I've explored AI, cybersecurity, blockchain, and healthcare
 
 ---
 
-### 04 // CODING PROFILE
+### 04 // CODING PROFILES
 
 <p align="center">
   <a href="https://leetcode.com/u/joyccceee_keren/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0B0F1A?style=for-the-badge&logo=leetcode&logoColor=C9A227" />
+    <img src="https://img.shields.io/badge/LeetCode-joyccceee__keren-0B0F1A?style=for-the-badge&logo=leetcode&logoColor=C9A227&labelColor=0B0F1A&color=C9A227" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/joyccceee_keren/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/joyccceee_keren?theme=dark&font=baloo2&ext=heatmap" />
+  &nbsp;
+  <a href="https://leaps.gg/@joyccceee_keren" target="_blank">
+    <img src="https://img.shields.io/badge/Leaps.gg-joyccceee__keren-0B0F1A?style=for-the-badge&logo=target&logoColor=C7C9D9&labelColor=0B0F1A&color=C7C9D9" />
   </a>
 </p>
 
