@@ -19,3 +19,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 04. Backpropagation & Chain Rule
 - **Concept**: Detailed mathematical derivation of backpropagation using tensor chain rule.
 - **Status**: Completed & Verified
+
+### 05. Regularization Techniques
+- **Concept**: L1/L2 Weight Decay, Dropout, Batch Normalization, and Layer Normalization.
+- **Status**: Completed & Verified
