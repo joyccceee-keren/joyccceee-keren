@@ -39,3 +39,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 09. LLM Architecture & Scaling
 - **Concept**: Decoder-only Transformers, Causal Masking, RoPE embeddings, and KV-cache.
 - **Status**: Completed & Verified
+
+### 10. Fine-Tuning & PEFT
+- **Concept**: LoRA (Low-Rank Adaptation), QLoRA, Prefix Tuning, and Prompt Engineering.
+- **Status**: Completed & Verified
