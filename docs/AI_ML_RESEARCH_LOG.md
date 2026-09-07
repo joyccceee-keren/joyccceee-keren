@@ -15,3 +15,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 03. Loss Functions & Optimization
 - **Concept**: Cross-Entropy, MSE, Gradient Descent, SGD, Adam, and AdamW.
 - **Status**: Completed & Verified
+
+### 04. Backpropagation & Chain Rule
+- **Concept**: Detailed mathematical derivation of backpropagation using tensor chain rule.
+- **Status**: Completed & Verified
