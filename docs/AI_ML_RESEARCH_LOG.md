@@ -87,3 +87,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 21. DSA: Dynamic Programming 2D
 - **Concept**: Grid paths, Longest Common Subsequence (LCS), and 0/1 Knapsack problem.
 - **Status**: Completed & Verified
+
+### 22. DSA: Heaps & Priority Queues
+- **Concept**: Min-Heap, Max-Heap, Top-K frequent elements, and Median from Data Stream.
+- **Status**: Completed & Verified
