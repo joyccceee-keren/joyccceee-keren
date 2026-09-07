@@ -111,3 +111,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 27. MLOps & Model Deployment
 - **Concept**: Docker containerization, ONNX runtime, FastAPI inference endpoints, and monitoring.
 - **Status**: Completed & Verified
+
+### 28. AI Research & Experimentation Log
+- **Concept**: Curated experiments, benchmark tracking, and reproducibility best practices.
+- **Status**: Completed & Verified
