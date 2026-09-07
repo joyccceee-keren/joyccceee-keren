@@ -79,3 +79,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 19. DSA: Graphs & Shortest Path
 - **Concept**: DFS, BFS, Topological Sort, Dijkstra's algorithm, and Bellman-Ford.
 - **Status**: Completed & Verified
+
+### 20. DSA: Dynamic Programming 1D
+- **Concept**: Memoization vs Tabulation, Fibonacci, House Robber, and Coin Change.
+- **Status**: Completed & Verified
