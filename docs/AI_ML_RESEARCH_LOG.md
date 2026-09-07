@@ -103,3 +103,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 25. Blockchain & Smart Contracts
 - **Concept**: Decentralized consensus, EVM execution environment, and Solidity security patterns.
 - **Status**: Completed & Verified
+
+### 26. Healthcare AI Systems
+- **Concept**: DICOM image preprocessing, HIPAA compliance in ML pipelines, and clinical validation.
+- **Status**: Completed & Verified
