@@ -71,3 +71,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 17. DSA: Binary Search Variants
 - **Concept**: Lower bound, upper bound, rotated sorted arrays, and search on answer space.
 - **Status**: Completed & Verified
+
+### 18. DSA: Trees & Traversals
+- **Concept**: In-order, Pre-order, Post-order, Level-order BFS, and Lowest Common Ancestor.
+- **Status**: Completed & Verified
