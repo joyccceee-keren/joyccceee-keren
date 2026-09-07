@@ -47,3 +47,7 @@ Curated deep dives into Deep Learning, LLMs, Mathematics, and Data Structures.
 ### 11. RAG Architecture
 - **Concept**: Vector Embeddings, Dense Retrieval, FAISS/Chroma indexing, and Contextual Reranking.
 - **Status**: Completed & Verified
+
+### 12. Model Quantization
+- **Concept**: FP32, FP16, BF16, INT8, and INT4 (GPTQ, AWQ, GGUF) precision tradeoffs.
+- **Status**: Completed & Verified
