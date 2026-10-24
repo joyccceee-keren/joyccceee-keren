@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joyce 👋</h1>
+<h1 align="center"
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=620&lines=Machine+Learning%2C+Deep+Learning+%26+LLMs;2nd+Year+CS+%2B+AI%2FML+Student;7x+Hackathon+Explorer" alt="Typing SVG" />
